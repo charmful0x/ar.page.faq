@@ -14,5 +14,5 @@ simply head to `your_domain.ar.page`!
 Currently, ANS is in testnet and new domain minting is not available.
 
 ## Explore
-`xy.ar` `letey.ar` `arweavesam.ar` `caoyin.ar` `martonlederer.ar` `msfew.ar` 
+`xy.ar.page` `letey.ar.page` `arweavesam.ar.page` `caoyin.ar.page` `martonlederer.ar.page` `msfew.ar.page` 
 
